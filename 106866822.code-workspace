@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../../workspaces/106866822"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "c",
+			"unordered_map": "c",
+			"vector": "c",
+			"functional": "c",
+			"memory": "c",
+			"optional": "c",
+			"string_view": "c",
+			"string": "c",
+			"system_error": "c"
+		}
+	}
+}
